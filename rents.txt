@@ -1,0 +1,9 @@
+MaazMalik,passo,3
+MaklikMuhammadHuzaifa,AudiEtronGT,10
+Esha,mehranBoss,15
+javeria,fortuner,4
+ben,bolan,4,40.0
+bla,vitz,9,90.0
+Aina,suv,5,50.0
+shakil,Altis,10,100.0
+
